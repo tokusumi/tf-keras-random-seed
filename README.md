@@ -1,14 +1,16 @@
 # Fixing global random seed for Tensorflow.keras
 
+![](https://github.com/tokusumi/tf-keras-random-seed/workflows/Tests/badge.svg)
+
 ## Introduction
 This repository is built for testing how to fix global random seed for tensorflow.keras (2.x) with GitHub Actions.
 
 Tests:
-Python 3.6+ and Tensorflow 2.0+:
+Python 3.6+ and Tensorflow 2.0+, especially:
 
 * Functional API
 * tf.keras.Sequential
-* tf.keras sub class
+* tf.keras subclass
 
 ## Example
 
